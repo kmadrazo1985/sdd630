@@ -169,9 +169,9 @@ No existing platform blends community building, structured support, and role-bas
 ➤ <strong>-No Ads or External Noise:</strong>Unlike platforms monetized by attention, KenHealthPost ensures user safety and focus by avoiding ad-based algorithms.
 
 ## Conclusion
-<p style="text-indent: 2em; text-align: justify;">KenHealthPost reimagines how social platforms can foster connection in mental wellness spaces. With its blend of educational content, peer support, role-based tools, and privacy-first design, it fills a major gap between social networking and mental health support. While therapy apps are essential, not every user is ready for formal counseling. KenHealthPost offers an inclusive, gentle, and proactive alternative that promotes healing through community and reflection.</p>
+<p style="text-indent: 2em; text-align: justify;">&emsp;&emsp;KenHealthPost reimagines how social platforms can foster connection in mental wellness spaces. With its blend of educational content, peer support, role-based tools, and privacy-first design, it fills a major gap between social networking and mental health support. While therapy apps are essential, not every user is ready for formal counseling. KenHealthPost offers an inclusive, gentle, and proactive alternative that promotes healing through community and reflection.</p>
 
-<p style="text-indent: 2em; text-align: justify;">As mental health becomes a shared public concern, tools like KenHealthPost will become essential not only for individual support but also for cultural change. By normalizing mental wellness conversations and empowering users to connect with purpose, this platform lays the foundation for a healthier digital future.</p>
+<p style="text-indent: 2em; text-align: justify;">&emsp;&emsp;As mental health becomes a shared public concern, tools like KenHealthPost will become essential not only for individual support but also for cultural change. By normalizing mental wellness conversations and empowering users to connect with purpose, this platform lays the foundation for a healthier digital future.</p>
 
 ## References
 1. Corrigan, P. W., & Watson, A. C. (2002). Understanding the impact of stigma on people with mental illness. World Psychiatry, 1(1), 16–20.
