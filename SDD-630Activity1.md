@@ -75,7 +75,7 @@ By centering the platform around safety, empathy, and relevance, KenHealthPost f
  <p style="text-indent: 2em; text-align: justify;">KenHealthPost adopts a minimalistic and calming design, avoiding overstimulating graphics or loud notifications. It uses soft tones blues, lavenders, and light greens and intuitive layouts. Particularly, KenHealthPost logo reflects the intention and commitment to support every individual's journey toward mental wellness with empathy, connection, and strength a symbol of hope, healing, and community empowerment.</p>
  <p align="center"><img src="logo.png" width="150" height="150"/></p>
 
-**Figure 1:** KenHealthPost logo.
+<p align="center">Figure 1: KenHealthPost logo.</p>
 
 <p style="text-indent: 2em; text-align: justify;">KenHealthPost features a navigation bar that connects to key pages such as Home, Login, Register, Search, Account, Create Post, and Other Accounts. The roles and responsibilities of these pages are outlined below. 
 
@@ -95,33 +95,37 @@ The next SiteMap shows the pages of KenHealthPost platform.
 
 <p align="center"><img src="image.png" width="300" height="245"/></p>
 
-**Figure 2:** SiteMap of the platform.
+<p align="center">Figure 2: SiteMap of the platform.</p>
 
 <p align="center"><img src="image3.png" width="430" height="27"/></p>
 
-**Figure 3:** Search bar of the platform.
+
+<p align="center">Figure 3: Search bar of the platform.</p>
 
 <p align="center"><img src="image1.png" width="230" height="160"/></p>
 
-**Figure 4:** Login Page.
+<p align="center">Figure 4: Login Page.</p>
 
 <p align="center"><img src="image2.png" width="230" height="160"/></p>
 
-**Figure 5:** Registration Page.
+<p align="center">Figure 5: Registration Page.</p>
 
 <p align="center"><img src="image4.png" width="400" height="300"/></p>
 
-**Figure 6:** Home Page.
+<p align="center">Figure 6: Home Page.</p>
+
 <p align="center"><img src="image5.png" width="230" height="225"/></p>
 
-**Figure 7:** Create Post Page.
+<p align="center">Figure 7: Create Post page.</p>
+
 <p align="center"><img src="image6.png" width="230" height="245"/></p>
 
-**Figure 8:** User Profile Page.
+<p align="center">Figure 8: User Profile Page..</p>
 
 <p align="center"><img src="image7.png" width="230" height="245"/></p>
 
-**Figure 8:** Other User Profile Page.
+
+<p align="center">Figure 9: Other User Profile Page</p>
 
 **5. What similar competing applications already exist?**
 
