@@ -72,12 +72,12 @@ By centering the platform around safety, empathy, and relevance, KenHealthPost f
 
 **4. What does the product look like?**
 
- <p style="text-indent: 2em; text-align: justify;">KenHealthPost adopts a minimalistic and calming design, avoiding overstimulating graphics or loud notifications. It uses soft tones blues, lavenders, and light greens and intuitive layouts. Particularly, KenHealthPost logo reflects the intention and commitment to support every individual's journey toward mental wellness with empathy, connection, and strength a symbol of hope, healing, and community empowerment.</p>
+ <p style="text-indent: 2em; text-align: justify;">&emsp;&emsp;KenHealthPost adopts a minimalistic and calming design, avoiding overstimulating graphics or loud notifications. It uses soft tones blues, lavenders, and light greens and intuitive layouts. Particularly, KenHealthPost logo reflects the intention and commitment to support every individual's journey toward mental wellness with empathy, connection, and strength a symbol of hope, healing, and community empowerment.</p>
  <p align="center"><img src="logo.png" width="150" height="150"/></p>
 
 <p align="center">Figure 1: KenHealthPost logo.</p>
 
-<p style="text-indent: 2em; text-align: justify;">KenHealthPost features a navigation bar that connects to key pages such as Home, Login, Register, Search, Account, Create Post, and Other Accounts. The roles and responsibilities of these pages are outlined below. 
+<p style="text-indent: 2em; text-align: justify;">&emsp;&emsp;KenHealthPost features a navigation bar that connects to key pages such as Home, Login, Register, Search, Account, Create Post, and Other Accounts. The roles and responsibilities of these pages are outlined below. 
 
 -Home page: displays posts from followed accounts.
    
@@ -129,7 +129,7 @@ The next SiteMap shows the pages of KenHealthPost platform.
 
 **5. What similar competing applications already exist?**
 
-  Several platforms support mental health through digital tools, but most are either therapy-oriented or generic wellness apps:</p>
+  &emsp;&emsp;Several platforms support mental health through digital tools, but most are either therapy-oriented or generic wellness apps:</p>
 
 <p style="text-align: justify;">
 ➤ <strong>7 Cups:</strong> Offers chat-based support from volunteers and therapists.</p>
@@ -143,12 +143,12 @@ The next SiteMap shows the pages of KenHealthPost platform.
 <p style="text-align: justify;">
 ➤ <strong>Calm / Headspace:</strong>Focus on mindfulness and meditation but do not support interactive communication or role-based networking.
 
-No existing platform blends community building, structured support, and role-based engagement the way KenHealthPost does.
+&emsp;&emsp;No existing platform blends community building, structured support, and role-based engagement the way KenHealthPost does.
 
 **6. What makes your idea different from existing solutions?**
 
 <p style="text-indent: 2em; text-align: justify;">
-  KenHealthPost is distinct in several key ways:</p>
+  &emsp;&emsp;KenHealthPost is distinct in several key ways:</p>
 
 <p style="text-align: justify;">
 ➤ <strong>Mental Health-first Social Network: </strong>Rather than adding mental health features to an existing network, KenHealthPost is purpose-built for mental wellness, from the UI to the user roles.</p>
