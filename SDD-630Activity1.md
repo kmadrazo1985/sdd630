@@ -3,19 +3,16 @@
 <h2 align="center">Activity 1</h2>
 <br><br>
 
-<h5 align="center">Kenia Madrazo
-    
-              Grand Canyon University
-
-                       CET
-                    
-                     SDD-630
-
-            Professor Bobby Estey 
-</h5>
-                                       
-
-
+<h4 align="center">Kenia Madrazo</h4>
+<br><br>
+<h4 align="center">Grand Canyon University</h4>
+<br><br>
+<h4 align="center">CET</h4>
+<br><br>
+<h4 align="center">SDD-630</h4>
+<br><br>                       
+<h4 align="center">Professor Bobby Estey</h4>
+<br><br>                  
 <br><br>
 
 
