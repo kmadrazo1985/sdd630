@@ -1,6 +1,6 @@
 
 <br><br>
-<h2 align="center">Activity 1</h2>
+<h2 align="center">Activity 1 Application Plan</h2>
 <br><br>
 
 <h4 align="center">Kenia Madrazo</h4>
