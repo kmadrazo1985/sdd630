@@ -13,18 +13,19 @@
 
 
 <h3><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">Introduction</h3>
-<p align="center">>
-&emsp;&emsp;&emsp;Mental health challenges continue to rise, especially among individuals navigating high-stress environments, such as students, young professionals, and caregivers. Although social media platforms allow people to connect, they often contribute to anxiety, isolation, and self-comparison. The proposed solution is <strong>KenHealthPost</strong>, a social networking platform that blends mental health support, education, and community connection into a safe digital space. It provides a secure environment where users can share experiences, access resources, and engage with professionals or peers.
+<p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
+&emsp;&emsp;Mental health challenges continue to rise, especially among individuals navigating high-stress environments, such as students, young professionals, and caregivers. Although social media platforms allow people to connect, they often contribute to anxiety, isolation, and self-comparison. The proposed solution is <strong>KenHealthPost</strong>, a social networking platform that blends mental health support, education, and community connection into a safe digital space. It provides a secure environment where users can share experiences, access resources, and engage with professionals or peers.
 </p>
 
 
 <h4><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">Who is the ideal user?</h4>
-<p align="center">
- &emsp;&emsp;&emsp;The ideal user for KenHealthPost is a mental health-conscious individual, aged 18 to 35, who seeks both community support and mental wellness tools online. This user may be a student facing academic stress, a young adult transitioning into the workforce, or someone managing chronic stress or anxiety. The user values anonymity, empathy, and evidence-based content. They want a digital space free from toxicity, judgment, or misinformation something traditional social media platforms don’t offer. Additionally, KenHealthPost is designed for mental health professionals, such as counselors and therapists, who want to contribute educational content and provide group-level support without needing to offer formal therapy within the app.</p>
+<p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
+&emsp;&emsp;The ideal user for KenHealthPost is a mental health-conscious individual, aged 18 to 35, who seeks both community support and mental wellness tools online. This user may be a student facing academic stress, a young adult transitioning into the workforce, or someone managing chronic stress or anxiety. The user values anonymity, empathy, and evidence-based content. They want a digital space free from toxicity, judgment, or misinformation something traditional social media platforms don’t offer. Additionally, KenHealthPost is designed for mental health professionals, such as counselors and therapists, who want to contribute educational content and provide group-level support without needing to offer formal therapy within the app.</p>
 
-**2. What problem exists for your ideal user?**
 
- <p style="text-indent: 2em; text-align: justify;">Despite the increased availability of mental health resources, many users feel disconnected or overwhelmed by conventional social media platforms that emphasize highlight reels and influencer culture. These platforms often lack contextual support, promote unrealistic lifestyles, and ignore the emotional needs of users(Fardouly et al., 2018). In contrast, professional therapy can be expensive, time-consuming, and intimidating for first-time seekers(Gulliver et al., 2010).
+<h4><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">2. What problem exists for your ideal user?</h4>
+ <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
+&emsp;&emsp;Despite the increased availability of mental health resources, many users feel disconnected or overwhelmed by conventional social media platforms that emphasize highlight reels and influencer culture. These platforms often lack contextual support, promote unrealistic lifestyles, and ignore the emotional needs of users(Fardouly et al., 2018). In contrast, professional therapy can be expensive, time-consuming, and intimidating for first-time seekers(Gulliver et al., 2010).
 
 Users struggle with:
 
@@ -36,35 +37,36 @@ Users struggle with:
 
 - Information overload with no filter on accuracy or source credibility (Naslund et al., 2016).</p>
 
-**3. What does the product you propose do to solve the problem?**
 
- <p style="text-indent: 2em; text-align: justify;">KenHealthPost offers a tailored, empathetic solution through a mental-health-focused social networking experience that includes:</p>
+<h4><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">3. What does the product you propose do to solve the problem?</h4>
+ <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
+&emsp;&emsp;KenHealthPost offers a tailored, empathetic solution through a mental-health-focused social networking experience that includes:</p>
 
- <p style="text-align: justify;">
+ <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
 ➤ <strong>Role-Based Accounts:</strong> Users choose to sign up as a patients or Professional. Each role has specific tools. For example, therapists can have access to patients records and AI recommendations to provide the best possible feeback and support.
 </p>
 
-<p style="text-align: justify;">
+<p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
 ➤ <strong>Topic-Based Forums:</strong> Mental Health Patients can interact with Professionals and fellow patients via chats and videocalls.
 </p>
 
-<p style="text-align: justify;">
+<p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
 ➤ <strong>Wellness Feed:</strong> Unlike other platforms that use algorithms based on popularity, KenHealthPost curates a personalized feed of uplifting stories, educational content, and user reflections, based on selected interests and moods.
 </p>
 
-<p style="text-align: justify;">
+<p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
 ➤ <strong>Guided Self-Care Tools:</strong> Includes built-in journaling, and recommended exercises like grounding techniques or reflection prompts (Morledge et al., 2013).
 </p>
 
-<p style="text-align: justify;">
+<p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
 ➤ <strong>Peer and Expert Engagement:</strong> Users can interact with trained peer mentors or verified professionals through posts, live Q&As, or messaging (with privacy settings enabled)(Rice et al., 2014).
 </p>
 
-<p style="text-align: justify;">
+<p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
 ➤ <strong>Privacy-Centered Design:</strong> Users control visibility, post anonymously, and report harmful content instantly. There are no ads or influencer content.
 </p>
 
-<p style="text-align: justify;">
+<p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
 By centering the platform around safety, empathy, and relevance, KenHealthPost fosters real connection without compromising mental health.
 </p>
 
