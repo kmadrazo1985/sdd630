@@ -14,13 +14,13 @@
 
 <h3><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">Introduction</h3>
 <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
-Mental health challenges continue to rise, especially among individuals navigating high-stress environments, such as students, young professionals, and caregivers. Although social media platforms allow people to connect, they often contribute to anxiety, isolation, and self-comparison. The proposed solution is <strong>KenHealthPost</strong>, a social networking platform that blends mental health support, education, and community connection into a safe digital space. It provides a secure environment where users can share experiences, access resources, and engage with professionals or peers.
+&emsp;&emsp;&emsp;Mental health challenges continue to rise, especially among individuals navigating high-stress environments, such as students, young professionals, and caregivers. Although social media platforms allow people to connect, they often contribute to anxiety, isolation, and self-comparison. The proposed solution is <strong>KenHealthPost</strong>, a social networking platform that blends mental health support, education, and community connection into a safe digital space. It provides a secure environment where users can share experiences, access resources, and engage with professionals or peers.
 </p>
 
 
 <h4><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">Who is the ideal user?</h4>
 <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
- The ideal user for KenHealthPost is a mental health-conscious individual, aged 18 to 35, who seeks both community support and mental wellness tools online. This user may be a student facing academic stress, a young adult transitioning into the workforce, or someone managing chronic stress or anxiety. The user values anonymity, empathy, and evidence-based content. They want a digital space free from toxicity, judgment, or misinformation something traditional social media platforms don’t offer. Additionally, KenHealthPost is designed for mental health professionals, such as counselors and therapists, who want to contribute educational content and provide group-level support without needing to offer formal therapy within the app.</p>
+ &emsp;&emsp;&emsp;The ideal user for KenHealthPost is a mental health-conscious individual, aged 18 to 35, who seeks both community support and mental wellness tools online. This user may be a student facing academic stress, a young adult transitioning into the workforce, or someone managing chronic stress or anxiety. The user values anonymity, empathy, and evidence-based content. They want a digital space free from toxicity, judgment, or misinformation something traditional social media platforms don’t offer. Additionally, KenHealthPost is designed for mental health professionals, such as counselors and therapists, who want to contribute educational content and provide group-level support without needing to offer formal therapy within the app.</p>
 
 **2. What problem exists for your ideal user?**
 
