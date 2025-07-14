@@ -1,6 +1,6 @@
 
 <br><br>
-<h2 align="center">SDD-630 Benchmark-Activity 2.1</h2>
+<h2 align="center">SDD-630 Benchmark-Activity 2.1 Part 2</h2>
 <br><br>
 
 <h4 align="center">Kenia Madrazo</h4>
@@ -14,13 +14,14 @@
 
 <h3><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">Introduction</h3>
 <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
-&emsp;&emsp;This reports include the link to the demo video to demostrate the essential MVP. Also screenshots of the all pages of the platform were included.  
+&emsp;&emsp;This report includes a link to the demo video showcasing the core functionality of the Minimum Viable Product (MVP). Additionally, screenshots of all the pages within the platform are provided to give a comprehensive view of the user interface and features.  
 </p>
 
 <h3><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">Demo of the Prototype</h3>
-<p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">&emsp;&emsp;The link to the video demonstrating the prototype is included below. The main goal was to demostrate design and navegability.
+<p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">&emsp;&emsp;The link to the video demonstrating the prototype is provided below. The primary goal of this demonstration is to showcase the design, layout, and overall navigability of the platform.
 
-https://gitlab.com/bobby.estey/wikibob/-/blob/master/README.md
+
+&emsp;&emsp;&emsp;[Link to Video](https://drive.google.com/file/d/1YSG74e71P1FFP2BSYIuYR8EPNHBkhcaR/view?usp=sharing)
 
 <p align="center"><img src="picture1.png" width="250" height="255"/></p>
 
@@ -97,3 +98,6 @@ https://gitlab.com/bobby.estey/wikibob/-/blob/master/README.md
 <p align="center"><img src="picture17.png" width="280" height="210"/></p>
 
 <p align="center">Figure 17: SpeakToSpecialist page.</p>
+
+## Conclusion
+<p style="text-indent: 2em; text-align: justify;">&emsp;&emsp;The design phase of this project focused on identifying and organizing user stories into three categories: <strong>Essential Features (MVP)</strong>, <strong>Nice to Have</strong>, and <strong>Future Plans</strong>. Priority was given to the MVP features to ensure that the core functionality was delivered first. These essential features such as account creation, post management, and user interaction—were successfully demonstrated in the video, which showcased the WPA prototype working as intended.</p> <p style="text-indent: 2em; text-align: justify;">&emsp;&emsp;The remaining "Nice to Have" and "Future Plans" features will be addressed in upcoming development cycles. By following the Scrum framework, the project will continue to evolve based on ongoing feedback and emerging requirements. This iterative, user-focused approach ensures that the platform remains adaptable, scalable, and prepared for long-term growth.</p>
