@@ -14,7 +14,7 @@
 
 <h3><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">Introduction</h3>
 <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
-&emsp;&emsp;This reports include the essential MVP(Minimum Viable Product) features that KenHealthPost must have to fullfil the mental health patients needs. Also, nice to have and future plans are analyzed and presented in this design of the new networking platform that is intended to support people facing mental health problems.  
+&emsp;&emsp;This report includes all the essential MVP(Minimum Viable Product) features that KenHealthPost must have to fullfil the mental health patients needs. Also, nice to have and future plans are analyzed and presented in this design of the new networking platform that is intended to support people facing mental health issues.  
 </p>
 
 
