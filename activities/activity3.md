@@ -65,4 +65,10 @@
 
 ## References
 
-&emsp;&emsp;KenHealthPost represents a purpose-driven digital solution tailored to support mental wellness through secure, community-based engagement. By aligning with TerrosHealth’s mission and securing full financial backing, the platform avoids commercial pressures and focuses entirely on improving patient outcomes. Its thoughtful design, strategic partnerships, and commitment to user safety position it as a sustainable and impactful tool in the evolving landscape of mental health care.
+Chaudhry, B., Wang, J., Wu, S., & Maglione, M. (2013). Systematic review: Impact of health information technology on quality, efficiency, and costs of medical care. Annals of Internal Medicine, 144(10), 742-752. https://doi.org/10.7326/0003-4819-144-10-200605160-00125
+
+Kenning, A. (2020). Mental health technology innovation: Aligning clinical goals and product development [White paper]. TerrosHealth Publications.
+
+Mohr, D. C., Zhang, M., & Schueller, S. M. (2017). Personal sensing: Understanding mental health using ubiquitous sensors and machine learning. Annual Review of Clinical Psychology, 13, 23–47. https://doi.org/10.1146/annurev-clinpsy-032816-045037
+
+Naslund, J. A., Aschbrenner, K. A., Marsch, L. A., & Bartels, S. J. (2016). The future of mental health care: Peer-to-peer support and social media. Epidemiology and Psychiatric Sciences, 25(2), 113-122. https://doi.org/10.1017/S2045796015001067
