@@ -22,7 +22,7 @@
 
 <h3><p style="text-align: justify; margin-left: 4em; margin-right: 4em;">.NET Core MVC Combined with Progressive Web Apps</h3>
 <p style="text-align: justify;">
-&emsp;&emsp;.NET Core MVC, developed by Microsoft, is a modern, open-source, cross-platform framework used for building web applications. When combined with PWA technologies, such as service workers, manifests, and offline caching strategies applications built using .NET Core MVC can function across all major device categories without requiring separate native builds for Android or iOS platforms (Microsoft, 2023). PWAs can be installed directly from the browser, work offline, and send push notifications—key features expected by modern mobile users (Google Developers, 2023).</p>
+&emsp;&emsp;.NET Core MVC, developed by Microsoft, is a modern, open-source, cross-platform framework used for building web applications. When combined with PWA technologies, such as service workers, manifests, and offline caching strategies applications built using .NET Core MVC can function across all major device categories without requiring separate native builds for Android or iOS platforms (Microsoft, 2023). PWAs can be installed directly from the browser, work offline, and send push notifications, key features expected by modern mobile users (Google Developers, 2023).</p>
 
 <h3><p style="text-align: justify; margin-left: 4em; margin-right: 4em;">Why Choose This Stack?</h3>
 <p style="text-align: justify;">
@@ -63,4 +63,41 @@ Additionally, PWAs are particularly effective for use cases where users require 
 &emsp;&emsp;Choosing development tools also means considering their long-term viability. Open-source projects like Flutter or React Native evolve quickly, but their frequent updates can introduce instability. Meanwhile, Microsoft's commitment to backward compatibility and enterprise support makes .NET Core a reliable choice. The release of .NET 8 and its future roadmap confirms ongoing support and innovation (Microsoft, 2024).
 By building a PWA using .NET Core MVC, developers position the application for long-term sustainability. The use of web standards ensures broad compatibility with future platforms, while Microsoft's backing provides assurance that the framework will continue to evolve without leaving users behind.</p>
 
+## Conclusion
 
+<p style="text-align: justify;">
+&emsp;&emsp;In conclusion, .NET Core MVC combined with PWA architecture presents the most strategic and cost-effective option for mobile application development in this project. It offers:
+
+- Cross-platform delivery through a single codebase.
+
+- Fast deployment and updates without app store barriers.
+
+- Strong security, scalability, and enterprise alignment.
+
+- Developer familiarity and broad talent availability.
+
+- Long-term support and integration with Microsoft services.
+
+&emsp;&emsp;While native frameworks or hybrid solutions like Flutter and React Native offer unique benefits, they do not match the alignment, simplicity, and sustainability offered by .NET Core MVC with PWA. For this reason, this solution is the most appropriate choice for building a high-quality, maintainable, and scalable application targeting users on smartphones, tablets, and desktops.   </p>
+
+## References
+
+Google Developers. (2023). Progressive Web Apps. https://developer.google.com/web/progressive-web-apps
+
+Gartner. (2024). PWA Adoption Trends in Mobile App Development. Gartner Research Portal.
+
+Google Trends. (2024). Dart, Flutter, React Native: Search Popularity in the Past Year. https://trends.google.com
+
+MDN Web Docs. (2023). Service Workers: making PWAs work offline. https://developer.mozilla.org/
+
+Microsoft. (2023). ASP.NET Core Overview. https://learn.microsoft.com/en-us/aspnet/core/
+
+Microsoft Learn. (2024). Authentication and Authorization in ASP.NET Core. https://learn.microsoft.com/
+
+Mozilla. (2024). Introduction to Progressive Web Apps. https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps
+
+Novotny, J. (2023). Why .NET Core is Still Relevant in 2023. .NET Foundation Blog.
+
+Roe, D. (2024). Cross-Platform vs. Native Mobile Development: A Cost-Benefit Analysis. TechCrunch Reports.
+
+Stack Overflow. (2024). Developer Survey Results 2024. https://survey.stackoverflow.co/2024
