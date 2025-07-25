@@ -12,7 +12,7 @@
 
 
 
-<h3 align="center">Ethical Policy to Prevent Addictive Use of KenHealthPost</h3>
+<h3><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">Ethical Policy to Prevent Addictive Use of KenHealthPost</h3>
 
 <h3><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">Introduction</h3>
 <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
