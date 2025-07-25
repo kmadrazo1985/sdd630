@@ -15,7 +15,7 @@
 <h3><p style="text-align: justify; margin-left: 4em; margin-right: 4em;">Title: Enhancing User Loyalty with Hooked Features in KenHealthPost</h3>
 
 <h3><p style="text-align: justify; margin-left: 4em; margin-right: 4em;">Introduction</h3>
-<p style="text-align: justify; text-indent: 4.5em; margin-left: 4em; margin-right: 4em;">
+<p style="text-align: justify;">
 &emsp;&emsp;KenHealthPost is a Progressive Web App (PWA) designed to support mental health patients and professionals by offering secure communication, appointment updates, peer interactions, and educational content. To build long-term user engagement, the application will incorporate the four principles of Nir Eyal’s Hook Model: Trigger, Action, Variable Reward, and Investment (Eyal, 2014). These principles will guide key feature enhancements aimed at boosting user retention and loyalty. Additionally, persuasive design strategies (Fogg, 2003) and habit-building techniques (Clear, 2018) offer complementary insights that support the Hook Model approach.
 </p>
 
