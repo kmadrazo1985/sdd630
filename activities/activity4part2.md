@@ -23,11 +23,11 @@
 <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
 &emsp;&emsp;Addictive behavior in KenHealthPost may manifest in the form of:
 
-- Over-checking for messages or feedback.
+🔄 Over-checking for messages or feedback.
 
-- Compulsive participation in community discussions.
+💬 Compulsive participation in community discussions.
 
-- Excessive journaling or self-monitoring that increases anxiety.
+⚠️ Excessive journaling or self-monitoring that increases anxiety.
 
 <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">&emsp;&emsp;Although these activities are meant to promote positive habits, excessive use can contribute to stress or avoidant behaviors. As Irina Slavina (2020) points out in the context of gambling and digital platforms, developers must be aware of how product design influences user behavior and take steps to prevent harm.
 </p>
@@ -36,9 +36,11 @@
 <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
 &emsp;&emsp;Based on mental health research and a Christian worldview that promotes moderation and intentionality (1 Corinthians 6:12), we recommend:
 
-- 15–30 minutes per day of active engagement.
-- A maximum of 1 hour daily usage, including journaling, browsing, or interacting with therapists or peers.
-- Promoting offline wellness activities such as in-person therapy, prayer, exercise, or family interactions.
+✅ 15–30 minutes per day of active engagement.
+
+✅ A maximum of 1 hour daily usage, including journaling, browsing, or interacting with therapists or peers.
+
+✅ Promoting offline wellness activities such as in-person therapy, prayer, exercise, or family interactions.
 
 <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
 &emsp;&emsp;The application will gently prompt users who exceed this limit with reminders such as: “Consider taking a break to rest your mind and reconnect offline.”
@@ -47,9 +49,11 @@
 <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
 &emsp;&emsp;We will integrate design features inspired by Stack Overflow’s reputation safeguards and Eyal’s article Is Some Tech Too Addictive?
 
-- Usage reports that show daily and weekly activity.
-- Session time alerts after 30 minutes of continuous usage.
-- Positive nudges suggesting healthy behavior such as “pause and reflect” or “step outside for fresh air.”
+➤  Usage reports that show daily and weekly activity.
+
+➤  Session time alerts after 30 minutes of continuous usage.
+
+➤  Positive nudges suggesting healthy behavior such as “pause and reflect” or “step outside for fresh air.”
 These tools help users become more mindful of their time, while still engaging meaningfully with the platform.
 
 <h3><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">Spiritual and Ethical Alignment</h3>

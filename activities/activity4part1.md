@@ -12,7 +12,7 @@
 
 
 
-<h3 align="center">Title: Enhancing User Loyalty with Hooked Features in KenHealthPost</h3>
+<h3><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">Title: Enhancing User Loyalty with Hooked Features in KenHealthPost</h3>
 
 <h3><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">Introduction</h3>
 <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
@@ -28,8 +28,9 @@
 <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
 &emsp;&emsp;An action is a behavior done in anticipation of a reward. In KenHealthPost, this includes reading motivational posts, checking feedback from a therapist, or participating in peer discussions. To make these actions easier, the app will include:
 
-- A “Daily Check-In” one-tap journaling feature.
-- A redesigned homepage dashboard that shows recent messages, upcoming appointments, and community updates in one scrollable view.
+📝 A “Daily Check-In” one-tap journaling feature.
+
+🏠 A redesigned homepage dashboard that shows recent messages, upcoming appointments, and community updates in one scrollable view.
 
 These design changes simplify the process, making it effortless for users to take action every time they open the app (Eyal, 2014; Fogg, 2003).
 </p>
@@ -38,9 +39,11 @@ These design changes simplify the process, making it effortless for users to tak
 <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
 &emsp;&emsp;KenHealthPost will integrate variable rewards in three categories:
 
-1. Tribe:  Positive reinforcement through community likes, support messages, and therapist feedback.
-2. Hunt:  A curated feed of new mental health articles or motivational quotes personalized by mood.
-3. Self:  Progress badges for journaling consistency or participating in group discussions.
+🤝 Tribe:  Positive reinforcement through community likes, support messages, and therapist feedback.
+
+🔍 Hunt:  A curated feed of new mental health articles or motivational quotes personalized by mood.
+
+🎖️ Self:  Progress badges for journaling consistency or participating in group discussions.
 </p>
 
 <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
@@ -51,9 +54,11 @@ These design changes simplify the process, making it effortless for users to tak
 <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
 &emsp;&emsp;User investment increases commitment to the app. KenHealthPost encourages investment in several ways:
 
-- Saving personal journaling entries.
-- Tracking therapy progress via revision notes.    
-- Building peer reputation through helpful comments.
+🗂️ Saving personal journaling entries.
+
+📈 Tracking therapy progress via revision notes. 
+
+👍 Building peer reputation through helpful comments.
 </p>
 
 <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
