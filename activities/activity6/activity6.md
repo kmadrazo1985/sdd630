@@ -41,7 +41,7 @@
 &emsp;&emsp;🔻Join Performance: Queries involving multiple joins can be slow on large datasets unless heavily optimized.
 
 **Use Cases and Example:**
-&emsp;&emsp;RDBMSs are ideal for applications requiring consistent data models, such as banking systems, inventory management, and ERP platforms. Amazon, for example, uses relational databases to maintain accurate order processing and financial data (Pearson, 2013).
+RDBMSs are ideal for applications requiring consistent data models, such as banking systems, inventory management, and ERP platforms. Amazon, for example, uses relational databases to maintain accurate order processing and financial data (Pearson, 2013).
 
 <h3><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">2. Document Databases (NoSQL)</h3>
 <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
@@ -66,7 +66,7 @@
 &emsp;&emsp;🔻Poor for Complex Relationships: Many-to-many relationships are not efficiently handled due to the lack of joins.
 
 **Use Cases and Example:**
-&emsp;&emsp;Popular among startups and mobile app developers, document databases work well in content management systems, messaging apps, and real-time analytics. Spotify uses MongoDB to store dynamic user data such as playlists, preferences, and listening history (Pearson, 2013).
+Popular among startups and mobile app developers, document databases work well in content management systems, messaging apps, and real-time analytics. Spotify uses MongoDB to store dynamic user data such as playlists, preferences, and listening history (Pearson, 2013).
 
 <h3><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">3. Graph Databases</h3>
 <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
@@ -89,7 +89,7 @@
 &emsp;&emsp;🔻Less Adoption: Fewer developers are familiar with graph databases, and tooling is still growing.
 
 **Use Cases and Example:**
-&emsp;&emsp;Commonly used in social networking, fraud detection, and recommendation engines. LinkedIn and Facebook use graph databases to analyze and model user connections for friend suggestions and content personalization (Neo4j, n.d.).
+Commonly used in social networking, fraud detection, and recommendation engines. LinkedIn and Facebook use graph databases to analyze and model user connections for friend suggestions and content personalization (Neo4j, n.d.).
 
 <h3><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">4. Search Engine Databases</h3>
 <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
@@ -114,7 +114,7 @@
 &emsp;&emsp;🔻Operational Complexity: Index tuning and configuration can be technically demanding.
 
 **Use Cases and Example:**
-&emsp;&emsp;Used in e-commerce search, log aggregation, and document retrieval. For example, eBay uses Elasticsearch for its fast, user-friendly product search and filtering capabilities (Pearson, 2013).
+Used in e-commerce search, log aggregation, and document retrieval. For example, eBay uses Elasticsearch for its fast, user-friendly product search and filtering capabilities (Pearson, 2013).
 
 <h3><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">5. Recommendation for Mobile Application</h3>
 <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
