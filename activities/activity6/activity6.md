@@ -41,7 +41,9 @@
 &emsp;&emsp;🔻Join Performance: Queries involving multiple joins can be slow on large datasets unless heavily optimized.
 
 **Use Cases and Example:**
-RDBMSs are ideal for applications requiring consistent data models, such as banking systems, inventory management, and ERP platforms. Amazon, for example, uses relational databases to maintain accurate order processing and financial data (Pearson, 2013).
+Relational Database Management Systems (RDBMSs) are ideal for applications that require structured, consistent, and real-time access to data, especially in environments where multiple users need to read and write critical information simultaneously. In a networking platform like KenHealthPost, where mental health specialists must frequently access, update, and securely share patient records, relational databases provide the transactional integrity, concurrency control, and strong data relationships necessary to ensure accuracy and compliance.
+
+Features such as messaging between users, appointment tracking, role-based access, and patient history management rely heavily on the reliability and consistency of relational data models. Relational databases ensure that all users—patients, specialists, and administrators—interact with up-to-date information without conflicts or data loss, even when multiple updates occur simultaneously.
 
 <h3><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">2. Document Databases (NoSQL)</h3>
 <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
