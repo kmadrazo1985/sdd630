@@ -69,7 +69,6 @@
 &emsp;&emsp;Popular among startups and mobile app developers, document databases work well in content management systems, messaging apps, and real-time analytics. Spotify uses MongoDB to store dynamic user data such as playlists, preferences, and listening history (Pearson, 2013).
 
 <h3><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">3. Graph Databases</h3>
-<h3><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">3. </h3>
 <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
 &emsp;&emsp;Graph databases such as Neo4j and Amazon Neptune model data as nodes and edges, which represent entities and their relationships. They are optimized for querying interconnected data (Robinson, Webber, & Eifrem, 2015).
 
@@ -93,7 +92,6 @@
 &emsp;&emsp;Commonly used in social networking, fraud detection, and recommendation engines. LinkedIn and Facebook use graph databases to analyze and model user connections for friend suggestions and content personalization (Neo4j, n.d.).
 
 <h3><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">4. Search Engine Databases</h3>
-<h3><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">3. </h3>
 <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
 &emsp;&emsp;Search engine databases like Elasticsearch and Apache Solr index data for fast retrieval and powerful full-text search. They are designed for querying large amounts of textual and semi-structured data (Elastic, n.d.).
 
@@ -119,7 +117,6 @@
 &emsp;&emsp;Used in e-commerce search, log aggregation, and document retrieval. For example, eBay uses Elasticsearch for its fast, user-friendly product search and filtering capabilities (Pearson, 2013).
 
 <h3><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">5. Recommendation for Mobile Application</h3>
-<h3><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">3. </h3>
 <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
 &emsp;&emsp;For a mobile app like KenHealthPost, which supports mental health professionals and patients, including features like posts, appointments, messaging, and user profiles, the following approach is optimal:
 
