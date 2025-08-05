@@ -118,18 +118,17 @@ Used in e-commerce search, log aggregation, and document retrieval. For example,
 
 <h3><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">5. Recommendation for Mobile Application</h3>
 <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
-&emsp;&emsp;For a mobile app like KenHealthPost, which supports mental health professionals and patients, including features like posts, appointments, messaging, and user profiles, the following approach is optimal:
+&emsp;&emsp;For a mobile app like KenHealthPost, which serves mental health professionals and patients with features such as user profiles, posts, appointments, and messaging, a relational database is the most suitable primary data storage solution.
 
-&emsp;&emsp;✔️Primary Database: Document (MongoDB)
-MongoDB provides the flexibility to store varied content types such as user data, chat messages, and blog-style posts. Its schema-less design is advantageous in agile environments where data requirements evolve over time.
+✔️ Primary Database: Microsoft SQL Server
+SQL Server is a powerful enterprise-grade relational database that provides a structured and highly secure environment, which is essential for handling sensitive healthcare data. Its support for ACID transactions, foreign key constraints, and indexed views ensures high data integrity, consistency, and performance crucial for features such as appointment scheduling, role-based access control, and medical history tracking. Additionally, SQL Server's built-in security features like row-level security, dynamic data masking, transparent data encryption (TDE), and auditing tools help meet stringent data privacy and compliance standards such as HIPAA and GDPR.
+Tight integration with .NET Core and Entity Framework makes SQL Server an ideal match for the KenHealthPost platform, streamlining development and improving maintainability.
 
-&emsp;&emsp;✔️Search Layer: Elasticsearch
-For searching through posts, public resources, or community tags, Elasticsearch adds speed and relevance filtering. It enhances user experience with autocomplete, suggestions, and quick retrieval.
+✔️ Search Layer: Elasticsearch (Optional)
+For advanced search features such as full-text search, autocomplete, and relevance-based filtering across posts, messages, or community resources, Elasticsearch can be integrated as a dedicated search engine. While SQL Server does offer full-text indexing, Elasticsearch is optimized for complex search use cases and large-scale content retrieval.
 
-&emsp;&emsp;✔️Optional Graph Layer: Neo4j
-If advanced features like professional-client matching, user networks, or recommendation systems are added, integrating Neo4j will improve relationship querying without compromising performance.
-
-&emsp;&emsp;✔️This hybrid setup maximizes flexibility, scalability, and performance while preparing the application for future feature expansion. 
+✔️ Graph Layer: Neo4j(Optional)
+If future versions of KenHealthPost introduce social or professional networking features such as patient-provider matching, connection graphs, or personalized recommendations, Neo4j can be used in conjunction to efficiently model and query relationship-driven data.
 
 ## Conclusion
 &emsp;&emsp;Each database technology provides strengths tailored to specific data storage and retrieval patterns. Relational databases are the gold standard for structured, transactional data. Document databases shine in flexible, rapidly evolving environments. Graph databases handle relationships with elegance and speed, while search engine databases provide advanced text search and analytics capabilities. For modern mobile applications such as KenHealthPost, a combination of document and search engine databases, with an optional graph layer, offers the most effective architecture to support scalability, agility, and rich user features.
