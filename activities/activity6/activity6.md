@@ -135,9 +135,9 @@ If future versions of KenHealthPost introduce social or professional networking 
 ## Conclusion
 &emsp;&emsp;Each database technology offers strengths tailored to specific storage and access patterns. While document databases excel in handling flexible, semi-structured data, and graph databases are well-suited for managing complex relationships, relational databases remain the gold standard for applications that require structured data, transactional integrity, and real-time multi-user access.
 
-For a modern mobile application like KenHealthPost, where mental health professionals must continuously access and update sensitive patient records, and where features like messaging, appointments, and role-based permissions demand consistency and reliability, a relational database such as SQL Server provides the ideal foundation. Its support for ACID transactions, strong security mechanisms, and seamless integration with the .NET ecosystem ensures data accuracy, privacy, and compliance.
+&emsp;&emsp;For a modern mobile application like KenHealthPost, where mental health professionals must continuously access and update sensitive patient records, and where features like messaging, appointments, and role-based permissions demand consistency and reliability, a relational database such as SQL Server provides the ideal foundation. Its support for ACID transactions, strong security mechanisms, and seamless integration with the .NET ecosystem ensures data accuracy, privacy, and compliance.
 
-To enhance specific features such as intelligent search or future social networking capabilities, technologies like Elasticsearch and Neo4j can be integrated as complementary layers. However, the core architecture should rely on the proven strength and structure of a relational database, ensuring scalability, maintainability, and trust in handling mission-critical data.
+&emsp;&emsp;To enhance specific features such as intelligent search or future social networking capabilities, technologies like Elasticsearch and Neo4j can be integrated as complementary layers. However, the core architecture should rely on the proven strength and structure of a relational database, ensuring scalability, maintainability, and trust in handling mission-critical data.
 
 ## References
 
