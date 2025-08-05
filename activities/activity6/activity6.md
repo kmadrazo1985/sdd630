@@ -41,7 +41,7 @@
 &emsp;&emsp;🔻Join Performance: Queries involving multiple joins can be slow on large datasets unless heavily optimized.
 
 **Use Cases and Example:**
-Relational Database Management Systems (RDBMSs) are ideal for applications that require structured, consistent, and real-time access to data, especially in environments where multiple users need to read and write critical information simultaneously. In a networking platform like KenHealthPost, where mental health specialists must frequently access, update, and securely share patient records, relational databases provide the transactional integrity, concurrency control, and strong data relationships necessary to ensure accuracy and compliance.
+Relational Database Management Systems (RDBMSs) are ideal for applications that require structured, consistent, and real-time access to data, especially in environments where multiple users need to read and write critical information simultaneously. In a networking platform like KenHealthPost, where mental health specialists must frequently access, update, add, delete and securely share patient records, relational databases provide the transactional integrity, concurrency control, and strong data relationships necessary to ensure accuracy and compliance.
 
 Features such as messaging between users, appointment tracking, role-based access, and patient history management rely heavily on the reliability and consistency of relational data models. Relational databases ensure that all users, patients, specialists, and administrators interact with up-to-date information without conflicts or data loss, even when multiple updates occur simultaneously.
 
