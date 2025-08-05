@@ -43,7 +43,7 @@
 **Use Cases and Example:**
 Relational Database Management Systems (RDBMSs) are ideal for applications that require structured, consistent, and real-time access to data, especially in environments where multiple users need to read and write critical information simultaneously. In a networking platform like KenHealthPost, where mental health specialists must frequently access, update, and securely share patient records, relational databases provide the transactional integrity, concurrency control, and strong data relationships necessary to ensure accuracy and compliance.
 
-Features such as messaging between users, appointment tracking, role-based access, and patient history management rely heavily on the reliability and consistency of relational data models. Relational databases ensure that all users—patients, specialists, and administrators—interact with up-to-date information without conflicts or data loss, even when multiple updates occur simultaneously.
+Features such as messaging between users, appointment tracking, role-based access, and patient history management rely heavily on the reliability and consistency of relational data models. Relational databases ensure that all users, patients, specialists, and administrators interact with up-to-date information without conflicts or data loss, even when multiple updates occur simultaneously.
 
 <h3><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">2. Document Databases (NoSQL)</h3>
 <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
@@ -133,7 +133,11 @@ For advanced search features such as full-text search, autocomplete, and relevan
 If future versions of KenHealthPost introduce social or professional networking features such as patient-provider matching, connection graphs, or personalized recommendations, Neo4j can be used in conjunction to efficiently model and query relationship-driven data.
 
 ## Conclusion
-&emsp;&emsp;Each database technology provides strengths tailored to specific data storage and retrieval patterns. Relational databases are the gold standard for structured, transactional data. Document databases shine in flexible, rapidly evolving environments. Graph databases handle relationships with elegance and speed, while search engine databases provide advanced text search and analytics capabilities. For modern mobile applications such as KenHealthPost, a combination of document and search engine databases, with an optional graph layer, offers the most effective architecture to support scalability, agility, and rich user features.
+&emsp;&emsp;Each database technology offers strengths tailored to specific storage and access patterns. While document databases excel in handling flexible, semi-structured data, and graph databases are well-suited for managing complex relationships, relational databases remain the gold standard for applications that require structured data, transactional integrity, and real-time multi-user access.
+
+For a modern mobile application like KenHealthPost, where mental health professionals must continuously access and update sensitive patient records, and where features like messaging, appointments, and role-based permissions demand consistency and reliability, a relational database such as SQL Server provides the ideal foundation. Its support for ACID transactions, strong security mechanisms, and seamless integration with the .NET ecosystem ensures data accuracy, privacy, and compliance.
+
+To enhance specific features such as intelligent search or future social networking capabilities, technologies like Elasticsearch and Neo4j can be integrated as complementary layers. However, the core architecture should rely on the proven strength and structure of a relational database, ensuring scalability, maintainability, and trust in handling mission-critical data.
 
 ## References
 
