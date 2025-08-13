@@ -16,8 +16,6 @@
 </p>
 
 <h3><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">Job Details</h3>
-<p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
-&emsp;&emsp;
 
 - Job Title: Back-End Developer
 

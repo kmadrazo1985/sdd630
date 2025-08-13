@@ -13,11 +13,10 @@
 <h3><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">Introduction</h3>
 <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
 &emsp;&emsp;This document presents two job posts for a Back-End Developer position, each containing key job details and an opportunity statement. Both posts are evaluated based on how well they align with the best practices taught in this course, focusing on clarity, structure, engagement, and completeness. The goal is to identify strengths and areas for improvement in order to ensure future postings are both professional and compelling to top-tier candidates. </p>
-</p>
+
+
 
 <h3><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">Post 1</h3>
-<p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
-&emsp;&emsp;
 
 - Job Title: Back-End Developer
 
@@ -48,7 +47,7 @@
 &emsp;&emsp;Filling this position will provide the expertise necessary to deliver the project’s next phase with optimal performance, security, and scalability. By bringing on an experienced Back-End Developer, we will not only meet immediate technical demands but also strengthen our long-term development capacity, ensuring the application continues to evolve and meet the needs of our users.
 
 
-<h3><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">Post 2</h3> <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;"> &emsp;&emsp;
+<h3><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">Post 2</h3> 
 
 - Job Title: Back-End Developer
 
@@ -76,11 +75,11 @@
 
 </p>
 
-<p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;"> &emsp;&emsp;This is a unique opportunity to join a mission-driven team at the forefront of digital mental health innovation. As our Back-End Developer, you will shape the technical backbone of our platform, ensuring it is secure, fast, and scalable for future growth. Your work will directly impact user experience, enabling seamless scheduling, secure data handling, and real-time interaction—key components in improving mental health outcomes for our community. </p>
+<p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;"> &emsp;&emsp;This is a unique opportunity to join a mission-driven team at the forefront of digital mental health innovation. As our Back-End Developer, you will shape the technical backbone of our platform, ensuring it is secure, fast, and scalable for future growth. Your work will directly impact user experience, enabling seamless scheduling, secure data handling, and real-time interaction key components in improving mental health outcomes for our community. </p>
 
 
 <h3><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">Evaluation of the Two Posts</h3> <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;"> &emsp;&emsp;
 
-<p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;"> &emsp;&emsp;The original post effectively lists the core details of the job, ensuring that all critical information—such as salary, qualifications, and purpose—is clearly presented. However, it presents all items in a single bullet-point block within a paragraph, which makes scanning for key information less efficient. Additionally, the original lacks strong section headings that could guide the reader’s eye, and it doesn’t explicitly emphasize the strategic value of the role in a way that sells the position to internal decision-makers.</p>
+<p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;"> &emsp;&emsp;The original post effectively lists the core details of the job, ensuring that all critical information, such as salary, qualifications, and purpose is clearly presented. However, it presents all items in a single bullet-point block within a paragraph, which makes scanning for key information less efficient. Additionally, the original lacks strong section headings that could guide the reader’s eye, and it doesn’t explicitly emphasize the strategic value of the role in a way that sells the position to internal decision-makers.</p>
 
 <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;"> &emsp;&emsp;The improved post applies best practices by breaking the information into clearly labeled sections, using concise yet descriptive headings, and separating content into digestible blocks. This enhances readability and ensures important details like start date, employment type, and qualifications stand out. Furthermore, the improved version reframes the “Purpose” and “Requisition Reason” into compelling role descriptions and justifications that communicate the role’s impact, aligning the requisition more closely with organizational goals and strategic hiring priorities.</p>
