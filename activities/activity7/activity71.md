@@ -17,22 +17,22 @@
 &emsp;&emsp;Building a successful product requires a diverse team of skilled professionals, each contributing unique expertise to ensure the product’s quality, functionality, and alignment with business goals (Cagan & Jones, 2018). From defining the vision and strategy to designing intuitive interfaces and implementing robust technical solutions, every role plays a critical part in the development process. This report examines the key responsibilities, skills, and contributions of four essential roles, Product Manager, Designer, Front-End Developer, and Back-End Developer, and analyzes how these positions work together. It also explores the potential for outsourcing, cost considerations, and the ways in which individual skill sets can bridge multiple roles within a team.
 </p>
 
-<h3><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">1.Product Manager</h3>
+<h3><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">1. Product Manager</h3>
 <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
 &emsp;&emsp;The Product Manager is responsible for overseeing the development and success of a product by defining its vision and roadmap (Pichler, 2016). This role involves understanding user needs, setting priorities, and ensuring the product aligns with business goals. Product Managers usually have a background in business, marketing, or computer science and need strong communication and organizational skills. They act as the liaison between stakeholders and the development team.
 </p>
 
-<h3><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">2.Designer</h3>
+<h3><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">2. Designer</h3>
 <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
 &emsp;&emsp;Designers are responsible for the visual and interactive aspects of the product, including user interface (UI) design and user experience (UX) considerations (Garrett, 2011). They conduct user research, create wireframes, and prototype the application to ensure usability and aesthetic appeal. Designers often come from backgrounds in graphic design, interaction design, or psychology. Their strengths lie in empathy, creativity, and a strong grasp of usability principles.
 </p>
 
-<h3><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">3.Front-End Developer</h3>
+<h3><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">3. Front-End Developer</h3>
 <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
 &emsp;&emsp;Front-End Developers build the client-side of the application—the part users interact with directly (Freeman & Robson, 2020). They use languages like HTML, CSS, and JavaScript and frameworks such as React or Angular. Their focus is on turning the design into a functional user interface. A background in computer science or web development is common, along with skills in responsive design, debugging, and performance optimization.
 </p>
 
-<h3><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">4.Back-End Developer</h3>
+<h3><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">4. Back-End Developer</h3>
 <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
 &emsp;&emsp;Back-End Developers handle server-side logic, databases, and integration (Holovaty & Kaplan-Moss, 2009). They are responsible for data storage, business logic, and performance behind the scenes. They typically work with languages like Java, Python, C#, or PHP, and use frameworks such as Node.js or ASP.NET Core. They ensure the app functions properly, handles data securely, and scales as needed. Their strengths include problem-solving, database knowledge, and API development.
 </p>

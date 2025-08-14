@@ -10,17 +10,17 @@
 <br><br>                  
 <br><br>
 
-<h3><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">Introduction</h3>
+<h2><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">Introduction</h3>
 <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
 &emsp;&emsp;This job posting presents a Back-End Developer role for a HealthTech mobile application focused on mental wellness. The position is designed for candidates who can architect and maintain robust server-side solutions, integrate APIs, and collaborate with cross-functional teams to ensure performance, security, and scalability. The posting clearly communicates responsibilities, required qualifications, and the organization’s mission to attract skilled and motivated applicants. </p>
 
-<h3><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">Job Title: Back-End Developer for HealthTech Mobile App</h3>
+<h4><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">Job Title: Back-End Developer for HealthTech Mobile App</h4>
 
-<h3><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">Job Summary:</h3>
+<h4><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">Job Summary:</h4>
 <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
 &emsp;&emsp;Join our mission-driven team as a Back-End Developer to help build a cutting-edge mobile platform supporting mental wellness. You will architect and implement robust server-side solutions and APIs that power real-time scheduling, secure messaging, and data analytics.</p>
 
-<h3><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">Job Details</h3>
+<h4><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">Job Details</h4>
 <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
 
 Responsibilities:
@@ -47,10 +47,10 @@ Benefits:
 - Health insurance, 401(k), remote work flexibility
 - Opportunity to make real social impact
 
-<h3><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">About Us</h3>
+<h4><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">About Us</h4>
 <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">&emsp;&emsp;We are a tech-forward organization dedicated to improving mental wellness through accessible digital tools. Our culture values innovation, empathy, and continuous learning.</p>
 
-<h3><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">Evaluation</h3>
+<h4><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">Evaluation</h4>
 <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">&emsp;&emsp;This job posting aligns with best practices by clearly outlining job duties, qualifications, and benefits while highlighting the mission of the organization. It avoids generic statements and communicates the impact of the role. Compared to the weaker example, this version includes concrete technologies and expectations. The tone is engaging yet professional, which helps attract ideal candidates.
 
 ## Conclusion

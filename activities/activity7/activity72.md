@@ -46,3 +46,8 @@
 
 <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
 &emsp;&emsp;Filling this position will provide the expertise necessary to deliver the project’s next phase with optimal performance, security, and scalability. By bringing on an experienced Back-End Developer, we will not only meet immediate technical demands but also strengthen our long-term development capacity, ensuring the application continues to evolve and meet the needs of our users.
+
+## Conclusion
+<p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
+&emsp;&emsp;In summary, hiring a proficient Back-End Developer will strengthen the application’s core infrastructure, enabling secure, scalable, and high-performance features that directly enhance user satisfaction and support our mission of improving mental health services.
+</p>
