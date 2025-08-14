@@ -1,5 +1,5 @@
 <br><br>
-<h2 align="center">Activity 7.3 Job Posting and Evaluation</h2>
+<h2 align="center">Activity 7.4 Job Posting and Evaluation</h2>
 <br><br>
 
 <h4 align="center">Kenia Madrazo</h4>
@@ -14,7 +14,7 @@
 <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
 &emsp;&emsp;This job posting presents a Back-End Developer role for a HealthTech mobile application focused on mental wellness. The position is designed for candidates who can architect and maintain robust server-side solutions, integrate APIs, and collaborate with cross-functional teams to ensure performance, security, and scalability. The posting clearly communicates responsibilities, required qualifications, and the organization’s mission to attract skilled and motivated applicants. </p>
 
-<h4><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">Job Title: Back-End Developer for HealthTech Mobile App</h4>
+<h4><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">Job Title: </h4><p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">&emsp;&emsp;Back-End Developer for HealthTech Mobile App.
 
 <h4><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">Job Summary:</h4>
 <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
