@@ -50,7 +50,7 @@ Benefits:
 <h4><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">About Us</h4>
 <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">&emsp;&emsp;We are a tech-forward organization dedicated to improving mental wellness through accessible digital tools. Our culture values innovation, empathy, and continuous learning.</p>
 
-<h4><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">Evaluation</h4>
+<h3><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">Evaluation</h3>
 <p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">&emsp;&emsp;This job posting aligns with best practices by clearly outlining job duties, qualifications, and benefits while highlighting the mission of the organization. It avoids generic statements and communicates the impact of the role. Compared to the weaker example, this version includes concrete technologies and expectations. The tone is engaging yet professional, which helps attract ideal candidates.
 
 ## Conclusion
