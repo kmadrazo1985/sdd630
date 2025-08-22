@@ -24,7 +24,7 @@
 
 &emsp;&emsp;Artificial intelligence will play a central role in customizing user experiences. Sentiment analysis, voice tone recognition, and user activity prediction can guide the app in offering personalized support, such as suggesting coping strategies or alerting professionals when distress signals are detected. These developments will help KenHealthPost evolve from a static platform to a dynamic, responsive tool in mental health management.
 
-&emsp;&emsp;Additionally, integration with wearable devices like smartwatches and fitness trackers will enable passive data collection related to sleep, heart rate, and physical activity—critical indicators of mental health. This data can be used to provide contextual insights, predict mental health episodes, or recommend content tailored to user behavior.
+&emsp;&emsp;Additionally, integration with wearable devices like smartwatches and fitness trackers will enable passive data collection related to sleep, heart rate, and physical activity, critical indicators of mental health. This data can be used to provide contextual insights, predict mental health episodes, or recommend content tailored to user behavior.
 
 &emsp;&emsp;The key to successful implementation of these technologies lies in ethical data management and compliance. As AI and data collection intensify, safeguarding user privacy through encryption, user consent, and transparency will be paramount (Floridi et al., 2018). For KenHealthPost, embracing these trends with a privacy-first approach will allow the app to remain relevant, impactful, and trusted.
 
