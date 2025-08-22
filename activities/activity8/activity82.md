@@ -1,0 +1,40 @@
+<br><br>
+<h2 align="center">Activity 8.2 – Analysis of Current Trends in Mobile Development Compared to KenHealthPost</h2>
+<br><br>
+
+<h4 align="center">Kenia Madrazo</h4>
+<h4 align="center">Grand Canyon University</h4>
+<h4 align="center">CET</h4>
+<h4 align="center">SDD-630</h4>                     
+<h4 align="center">Professor Bobby Estey</h4>
+<br><br>                  
+<br><br>
+
+<h2><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">Introduction</h3>
+<p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">
+&emsp;&emsp;Mobile application development continues to evolve rapidly, driven by the growing demand for cross-platform compatibility, user privacy, artificial intelligence (AI) integration, and seamless user experiences. Developers increasingly rely on frameworks such as Flutter, React Native, and .NET MAUI to streamline workflows, enabling a single codebase to function across multiple platforms (Martin, 2021). At the same time, Progressive Web Apps (PWAs) have emerged as a cost-effective alternative to native applications, offering offline capabilities and responsive design. Beyond technical efficiency, current trends also prioritize accessibility, data security, and user-centered design. Within this dynamic landscape, applications like the social networking platform KenHealthPost demonstrate how modern tools and approaches can be applied to specialized domains such as mental health, while also highlighting areas where further innovation is possible.</p>
+
+<h4><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">Languages and Frameworks</h4><p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">&emsp;&emsp;
+Current trends in mobile development reveal a strong shift toward cross-platform development, user privacy, machine learning integration, and responsive design. With the increasing popularity of frameworks like Flutter, React Native, and .NET MAUI, developers aim to write code once and deploy across iOS and Android devices, maximizing reach while reducing development time (Martin, 2021). Progressive Web Apps (PWAs) are also gaining traction, enabling app-like experiences through web browsers. Additionally, there's a growing emphasis on accessibility, offline support, and seamless user experiences.</p>
+
+<h4><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">Future Updates</h4><p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">&emsp;&emsp;
+Mobile application development continues to evolve rapidly, driven by the growing demand for cross-platform compatibility, user privacy, artificial intelligence (AI) integration, and seamless user experiences. Developers increasingly rely on frameworks such as Flutter, React Native, and .NET MAUI to streamline workflows, enabling a single codebase to function across multiple platforms (Martin, 2021). At the same time, Progressive Web Apps (PWAs) have emerged as a cost-effective alternative to native applications, offering offline capabilities and responsive design. Beyond technical efficiency, current trends also prioritize accessibility, data security, and user-centered design. Within this dynamic landscape, applications like KenHealthPost demonstrate how modern tools and approaches can be applied to specialized domains such as mental health. By adhering to proven software engineering practices, including the Model-View-Controller (MVC) architecture, object-oriented programming (OOP), and Agile methodologies.KenHealthPost is designed to ensure scalability, maintainability, and adaptability in a fast-changing technology environment. Intelligent features such as mood prediction, behavior analysis, and chatbot support for mental health interventions can be integrated in the future(Topol, 2019).</p>
+
+<h4><p style="text-align: justify; margin-left: 3.5em; margin-right: 3.5em;">Maintenance Cost</h4><p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">&emsp;&emsp;Maintaining and updating KenHealthPost over the next five years will require consistent investment in two main areas: storage and hosting services, as well as developer effort. For storage and hosting, using Azure App Service combined with SQL Database, the projected cost is between $500 and $1,000 per month. This translates to approximately $6,000 to $12,000 annually, resulting in a five-year cost estimate ranging from $30,000 to $60,000. These services are necessary to ensure uptime, security, and scalability as the application grows.
+
+&emsp;&emsp;The second area of investment is developer cost. Since I will be the sole developer maintaining the platform, my rate of $60 per hour is applied. Assuming a commitment of about 20 hours per month for updates, bug fixes, and incremental improvements, this results in $1,200 per month or $14,400 per year. Over the course of five years, the total developer cost is estimated at $72,000.
+
+&emsp;&emsp;Combining both hosting and developer costs, the total five-year investment for maintaining KenHealthPost is expected to fall between $102,000 and $132,000. This estimate reflects both the lower and higher ranges of hosting expenses. Importantly, the platform has been designed with scalability in mind, using strong architectural principles such as MVC, object-oriented programming, and Agile methodology. These standards ensure that KenHealthPost is well-prepared to evolve into a Progressive Web App, integrate advanced AI-driven features, and adapt to future demands while minimizing technical debt.</p>
+
+
+## Conclusion
+
+<p style="text-align: justify; text-indent: 4.5em; margin-left: 3.5em; margin-right: 3.5em;">&emsp;&emsp;The case of KenHealthPost illustrates how emerging trends in mobile development are shaping real-world applications while reinforcing the importance of strong software engineering foundations. By adopting ASP.NET Core Razor Pages, Bootstrap, and Agile practices, the platform aligns with the industry’s shift toward hybrid and accessible solutions, while its planned progression into a PWA reinforces this adaptability across devices. Incorporating MVC architecture and OOP principles ensures modular design, ease of maintenance, and the potential for future scalability. Although advanced AI and predictive features are not yet integrated, future enhancements such as chatbot support and analytics reflect the trajectory of modern mobile applications (Topol, 2019). At the same time,KenHealthPost emphasizes ethical data practices and HIPAA compliance, demonstrating that innovation can coexist with privacy. Ultimately, the application embodies current best practices in both mobile development and software architecture, providing a strong foundation for continued growth and alignment with broader industry innovations.</p>
+
+## References
+
+Martin, R. (2021). Cross-platform development: Building apps for multiple devices. Boston, MA: TechPress.
+
+Sommerville, I. (2016). Software engineering (10th ed.). Boston, MA: Pearson.
+
+Topol, E. (2019). Deep medicine: How artificial intelligence can make healthcare human again. New York, NY: Basic Books.
